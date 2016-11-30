@@ -1,6 +1,6 @@
 {
-  "name": "inquirer",
-  "version": "1.2.2",
+  "name": "suman-inquirer",
+  "version": "0.0.1",
   "description": "A collection of common interactive command line user interfaces.",
   "author": "Simon Boudrias <admin@simonboudrias.com>",
   "files": [
@@ -8,6 +8,8 @@
   ],
   "main": "lib/inquirer.js",
   "keywords": [
+    "suman",
+    "interactive",
     "command",
     "prompt",
     "stdin",
@@ -17,7 +19,7 @@
   ],
   "scripts": {
     "test": "gulp",
-    "prepublish": "gulp prepublish"
+    "prepublishX": "gulp prepublish"
   },
   "repository": "SBoudrias/Inquirer.js",
   "license": "MIT",
