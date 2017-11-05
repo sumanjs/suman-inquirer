@@ -1,6 +1,6 @@
 {
   "name": "suman-inquirer",
-  "version": "0.0.101",
+  "version": "0.0.102",
   "description": "A collection of common interactive command line user interfaces.",
   "author": "Simon Boudrias <admin@simonboudrias.com>",
   "files": [
